@@ -27,7 +27,7 @@ def initialize_components():
 climate_processor, scenario_generator, impact_assessor = initialize_components()
 
 # Title and introduction
-st.title("🌾 Climate-Smart Agriculture Planner")
+st.title("🌾 Climate-Change Driven Agricultural Yield Prediction using CMIP6 Data")
 st.markdown("""
 ### Explore Future Agricultural Scenarios Under Climate Change
 This tool analyzes how different socioeconomic pathways (SSPs) will affect African agriculture through 2100.
