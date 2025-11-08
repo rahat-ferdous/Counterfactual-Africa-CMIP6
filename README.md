@@ -1,6 +1,6 @@
-# Climate-Smart Agriculture Planner
+# Climate-Change Driven Agricultural Yield Prediction using CMIP6 Data
 
-A Streamlit application for analyzing climate change impacts on African agriculture using Shared Socioeconomic Pathways (SSPs).
+A demo for analyzing climate change impacts on African agriculture using Shared Socioeconomic Pathways (SSPs).
 
 ## Features
 
