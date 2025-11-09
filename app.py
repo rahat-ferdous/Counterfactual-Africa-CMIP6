@@ -11,7 +11,7 @@ from src.impact_assessor import ImpactAssessor
 
 # Page configuration
 st.set_page_config(
-    page_title="Climate-Smart Agriculture Planner",
+    page_title="Climate-Change Driven Agricultural Yield Prediction using CMIP6 Data",
     page_icon="🌾",
     layout="wide"
 )
